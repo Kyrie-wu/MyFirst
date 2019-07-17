@@ -1,1 +1,2 @@
 # MyFirst
+print “hello world”；
